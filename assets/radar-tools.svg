@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 540 400" width="540" height="400" role="img" aria-label="toolchain_fluency radar chart">
+  <title>toolchain_fluency</title>
+  <defs>
+    <linearGradient id="fill" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#39D353" stop-opacity="0.42"/>
+      <stop offset="1" stop-color="#39D353" stop-opacity="0.10"/>
+    </linearGradient>
+  </defs>
+  <rect width="540" height="400" rx="12" fill="#0D1117" stroke="#21262D"/>
+  <text x="24" y="36" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="14" fill="#39D353">toolchain_fluency</text>
+  <line x1="24" y1="48" x2="516" y2="48" stroke="#21262D"/>
+  <polygon points="270,182 297.7,198 297.7,230 270,246 242.3,230 242.3,198" fill="none" stroke="#1f6f36" stroke-opacity="0.28" stroke-width="1"/>
+  <polygon points="270,150 325.4,182 325.4,246 270,278 214.6,246 214.6,182" fill="none" stroke="#1f6f36" stroke-opacity="0.28" stroke-width="1"/>
+  <polygon points="270,118 353.1,166 353.1,262 270,310 186.9,262 186.9,166" fill="none" stroke="#1f6f36" stroke-opacity="0.28" stroke-width="1"/>
+  <polygon points="270,86 380.9,150 380.9,278 270,342 159.1,278 159.1,150" fill="none" stroke="#1f6f36" stroke-opacity="0.55" stroke-width="1"/>
+  <line x1="270" y1="214" x2="270" y2="86" stroke="#1f6f36" stroke-opacity="0.28" stroke-width="1"/>
+  <line x1="270" y1="214" x2="380.9" y2="150" stroke="#1f6f36" stroke-opacity="0.28" stroke-width="1"/>
+  <line x1="270" y1="214" x2="380.9" y2="278" stroke="#1f6f36" stroke-opacity="0.28" stroke-width="1"/>
+  <line x1="270" y1="214" x2="270" y2="342" stroke="#1f6f36" stroke-opacity="0.28" stroke-width="1"/>
+  <line x1="270" y1="214" x2="159.1" y2="278" stroke="#1f6f36" stroke-opacity="0.28" stroke-width="1"/>
+  <line x1="270" y1="214" x2="159.1" y2="150" stroke="#1f6f36" stroke-opacity="0.28" stroke-width="1"/>
+  <polygon points="270,96.2 374.2,153.8 364.2,268.4 270,311.3 171.3,271 179.1,161.5" fill="url(#fill)" stroke="#39D353" stroke-width="2" stroke-linejoin="round"/>
+  <circle cx="270" cy="96.2" r="3.2" fill="#0D1117" stroke="#39D353" stroke-width="2"/>
+  <circle cx="374.2" cy="153.8" r="3.2" fill="#0D1117" stroke="#39D353" stroke-width="2"/>
+  <circle cx="364.2" cy="268.4" r="3.2" fill="#0D1117" stroke="#39D353" stroke-width="2"/>
+  <circle cx="270" cy="311.3" r="3.2" fill="#0D1117" stroke="#39D353" stroke-width="2"/>
+  <circle cx="171.3" cy="271" r="3.2" fill="#0D1117" stroke="#39D353" stroke-width="2"/>
+  <circle cx="179.1" cy="161.5" r="3.2" fill="#0D1117" stroke="#39D353" stroke-width="2"/>
+  <text x="270" y="64" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="11" fill="#8B949E">ROS2 / Nav2 <tspan fill="#39D353">92</tspan></text>
+  <text x="391.2" y="141" text-anchor="start" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="11" fill="#8B949E">Python <tspan fill="#39D353">94</tspan></text>
+  <text x="391.2" y="295" text-anchor="start" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="11" fill="#8B949E">C / C++ <tspan fill="#39D353">85</tspan></text>
+  <text x="270" y="372" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="11" fill="#8B949E">Verilog / HDL <tspan fill="#39D353">76</tspan></text>
+  <text x="148.8" y="295" text-anchor="end" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="11" fill="#8B949E">Gazebo / Blender <tspan fill="#39D353">89</tspan></text>
+  <text x="148.8" y="141" text-anchor="end" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="11" fill="#8B949E">PyTorch / TF <tspan fill="#39D353">82</tspan></text>
+</svg>

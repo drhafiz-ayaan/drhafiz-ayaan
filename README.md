@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/avatar.png" width="165" alt="Ayaan Aatif" />
+<img src="assets/avatar.svg" width="185" alt="Ayaan Aatif" />
 
 <h1>Ayaan Aatif</h1>
 
@@ -14,7 +14,7 @@
 <a href="https://scholar.google.com/citations?user=ABC3PioAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar" /></a>
 <a href="mailto:drhafiz.ayaan@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <img src="https://img.shields.io/badge/Fiverr%20Level%202-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr Level 2 Seller" />
-<img src="https://img.shields.io/badge/Lahore,%20PK-39D353?style=for-the-badge&logo=googlemaps&logoColor=0D1117&color=39D353" alt="Lahore, Pakistan" />
+<img src="https://img.shields.io/badge/Islamabad,%20PK-39D353?style=for-the-badge&logo=googlemaps&logoColor=0D1117&color=39D353" alt="Islamabad, Pakistan" />
 
 <img src="https://komarev.com/ghpvc/?username=drhafiz-ayaan&label=PROFILE%20VIEWS&color=39d353&style=flat-square" alt="Profile views" />
 
@@ -34,7 +34,7 @@ I work where **robotics, embedded hardware and machine learning collapse into on
 
 - 🔬 **Research Assistant** at Pakistan's **National Center of Artificial Intelligence (NCAI)** — neural rendering and Gaussian splatting in the AI & Computer Vision group, plus digital-twin systems for autonomous platforms.
 - 📡 **Research Collaborator** at an **RF Antenna & EMC Testing Laboratory** — integrating antenna subsystems into robotic platforms.
-- 🚀 **Founder & Technical Lead @ Ayroil Labs** — intelligent drones, digital twins and AI-enabled inspection systems.
+- 🚀 **Founder & Technical Lead @ AyroX Labs** — intelligent drones, digital twins and AI-enabled inspection systems.
 - 🧾 **Founder @ FormatIQ** — a research-automation platform for academic formatting (reports, theses, CVs, IEEE papers).
 - 📄 **6 papers** published or accepted across swarm robotics, FPGA navigation, edge computer vision and IoT security.
 - 🏆 **Regional Winner**, Alibaba Cloud AI Hackathon — *TwinVerse Inspect AI*.

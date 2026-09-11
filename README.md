@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/avatar.svg" width="185" alt="Ayaan Aatif" />
+<img src="assets/avatar.svg" width="300" alt="Ayaan Aatif" />
 
 <h1>Ayaan Aatif</h1>
 
